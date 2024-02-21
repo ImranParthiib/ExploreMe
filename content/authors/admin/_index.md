@@ -66,7 +66,6 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-    items:
       - name: Web Development
         description: ""
         percent: 80
