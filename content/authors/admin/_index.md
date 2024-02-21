@@ -119,6 +119,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 Hi, I'm Imran Parthib! I'm passionate about exploring new ideas and concepts, and I love to learn new things. I find programming to be especially enjoyable and have experience in various languages like C, C++, Java, and Python. I have also learned about data structures, algorithms, and object-oriented programming concepts. In my free time, I enjoy challenging myself with problem-solving exercises on platforms like URI, HackerRank, and Codeforces. I'm currently exploring web development and am working with Python and Linux operating systems. When I'm not programming, I enjoy reading books of various genres, both non-fiction and fiction. Writing is also a hobby of mine, and I enjoy using it to spark my creativity and innovation.
 {style="text-align: justify;"}
