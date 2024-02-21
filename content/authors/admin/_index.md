@@ -51,10 +51,26 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Web Development
         description: ""
         percent: 80
-        icon: python
+        icon: web
+        icon_pack: fab
+      - name: Data Science
+        description: ""
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        description: ""
+        percent: 40
+        icon: database
+        icon_pack: fas
+    items:
+      - name: Web Development
+        description: ""
+        percent: 80
+        icon: web
         icon_pack: fab
       - name: Data Science
         description: ""
@@ -119,5 +135,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 Hi, I'm Imran Parthib! I'm passionate about exploring new ideas and concepts, and I love to learn new things. I find programming to be especially enjoyable and have experience in various languages like C, C++, Java, and Python. I have also learned about data structures, algorithms, and object-oriented programming concepts. In my free time, I enjoy challenging myself with problem-solving exercises on platforms like URI, HackerRank, and Codeforces. I'm currently exploring web development and am working with Python and Linux operating systems. When I'm not programming, I enjoy reading books of various genres, both non-fiction and fiction. Writing is also a hobby of mine, and I enjoy using it to spark my creativity and innovation.
 {style="text-align: justify;"}
