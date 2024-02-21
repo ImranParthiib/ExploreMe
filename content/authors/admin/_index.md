@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Imran Parthib
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Imran
+last_name: Parthib
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 🅳🅴🆅🅴🅻🅾🅿🅴🆁 | 🅿🆁🅾🅶🆁🅰🅼🅼🅴🆁 | 🆁🅴🅵🅾🆁🅼🅴🆁 | 🆆🆁🅸🆃🅴🆁
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Daffodil International University
+    url: https://daffodilvarsity.edu.bd/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Development
+  - Programming
+  - AI Implementation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science and Engineering
+      institution: Daffodil International University
+      year: 2024
+    - course: Wev Development
+      institution: Programming Hero
+      year: 2023
+    - course: HSC in Science
+      institution: BAF Shaheen College, Jessore
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,36 +52,36 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
-        description: ''
+        description: ""
         percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
-        description: ''
+        description: ""
         percent: 40
         icon: database
         icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Hiking
-        description: ''
+        description: ""
         percent: 60
         icon: person-hiking
         icon_pack: fas
       - name: Cats
-        description: ''
+        description: ""
         percent: 100
         icon: cat
         icon_pack: fas
       - name: Photography
-        description: ''
+        description: ""
         percent: 80
         icon: camera-retro
         icon_pack: fas
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Imran Parthib! I'm passionate about exploring new ideas and concepts, and I love to learn new things. I find programming to be especially enjoyable and have experience in various languages like C, C++, Java, and Python. I have also learned about data structures, algorithms, and object-oriented programming concepts. In my free time, I enjoy challenging myself with problem-solving exercises on platforms like URI, HackerRank, and Codeforces. I'm currently exploring web development and am working with Python and Linux operating systems. When I'm not programming, I enjoy reading books of various genres, both non-fiction and fiction. Writing is also a hobby of mine, and I enjoy using it to spark my creativity and innovation.
 {style="text-align: justify;"}
